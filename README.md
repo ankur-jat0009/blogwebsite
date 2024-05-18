@@ -1,4 +1,4 @@
-<div align="left">
+<div align="center">
   
   <br />
 
@@ -38,7 +38,9 @@ git clone https://github.com/ankur-jat0009/blogwebsite.git
 ### Contact
 
 If you want to contact with me you can reach me at [Linkedin](https://www.linkedin.com/in/ankur-jat-bb45b8276/).
-  
+
+
+  ### Details
   <p>
 ### HTML Code:
 
@@ -86,6 +88,6 @@ The JavaScript code adds interactivity and behavior to the webpage. Here's what 
 Overall, the HTML, CSS, and JavaScript work together to create a visually appealing and interactive webpage with features like navigation, search, and responsiveness.
 </p>
 
-<p>Reference Youtube Link - <a href="https://www.youtube.com/watch?v=NNQuhOeM0mI&t=164s">LINK</a> </p> 
+<p>Reference Youtube Link - <a href="https://www.youtube.com/watch?v=NNQuhOeM0mI&t=164s">www.youtube.com</a> </p> 
 </div>
 
