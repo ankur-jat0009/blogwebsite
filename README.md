@@ -39,7 +39,7 @@ git clone https://github.com/ankur-jat0009/blogwebsite.git
 
 If you want to contact with me you can reach me at [Linkedin](https://www.linkedin.com/in/ankur-jat-bb45b8276/).
   
-  <pre>
+  <p>
 ### HTML Code:
 
 The HTML code appears to define the structure of a webpage. Here's a breakdown of its components:
@@ -84,9 +84,8 @@ The JavaScript code adds interactivity and behavior to the webpage. Here's what 
    - Toggles the visibility of the search bar and overlay when the search toggle button is clicked.
 
 Overall, the HTML, CSS, and JavaScript work together to create a visually appealing and interactive webpage with features like navigation, search, and responsiveness.
-</pre>
-
-<p>Reference Youtube Link - <a href="https://www.youtube.com/watch?v=NNQuhOeM0mI&t=164s"></a>
 </p>
+
+<p>Reference Youtube Link - <a href="https://www.youtube.com/watch?v=NNQuhOeM0mI&t=164s">LINK</a> </p> 
 </div>
 
