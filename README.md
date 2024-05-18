@@ -13,8 +13,6 @@
 
   <video src="        
 
-Uploading Recording 2024-05-18 224410.mp4…
-
    "></video>
 
 </div>
