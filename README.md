@@ -8,14 +8,6 @@
 
   <a href="https://blogwebsite0009.netlify.app/"><strong>➥ Live Demo</strong></a>
 
-  <video src="   
-
-
-https://github.com/ankur-jat0009/blogwebsite/assets/146361526/4e07cea4-d882-4b1c-b6f2-7dec0978cc00
-
-
-    
-" controls ></video>
   <p>Dark and Light mode is available in this website. </p>
 
 
