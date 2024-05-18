@@ -1,8 +1,5 @@
-<div align="center">
+<div align="left">
   
-
-
-  <br />
   <br />
 
   <h2 align="center">Blogy - Blog Website</h2>
